@@ -1,2 +1,2 @@
 # annoying-formulae
-Terminal run, physical and mathematical formulae.
+Console run, physical and mathematical formulae.
